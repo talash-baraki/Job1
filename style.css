@@ -1,0 +1,12 @@
+h1{
+    text-transform:uppercase;
+    color:olive;
+    letter-spacing: normal;
+}
+h2{
+    text-indent: 0cqmax;
+    color:blue;
+    font:bold
+}
+* {background-color: burlywood;}
+h1, h2 {background-color: white;}
